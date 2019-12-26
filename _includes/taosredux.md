@@ -1,8 +1,8 @@
-Ghostranch
+<p>Ghostranch</p>
 
-It was too cold to sit by the pool, even sheltered from the wind, so I decided to drive up into the snow.
+<p>It was too cold to sit by the pool, even sheltered from the wind, so I decided to drive up into the snow.</p>
 
-It had been ten years, but I figured it wouldn't have melted yet.
+<p>It had been ten years, but I figured it wouldn't have melted yet.</p>
 
 There is a familiarity that is quite compelling.  The pink adobe by the intersection was too obvious a memory.   But at 60 mph looking down to a little farm yard of log buildings topped by bright red metal roofs,  that worked.
 
