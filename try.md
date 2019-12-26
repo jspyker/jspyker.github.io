@@ -1,5 +1,7 @@
 Heres a file
 
+{% include taosredux.md %}
+
 that is just a markdown file
 
 - List
