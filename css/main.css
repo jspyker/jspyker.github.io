@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: red;
 }
 nav ul, footer ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif', sans-serif;
@@ -15,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(0, 79, 124);
+    color: #099;
 }
 a:hover {
     text-decoration: underline;
@@ -25,10 +24,9 @@ h1 {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif', sans-serif;
 }
 p {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: rgb(167, 41, 32);
+    color: #909;
 }
 footer {
     border-top: 1px solid #d5d5d5;
